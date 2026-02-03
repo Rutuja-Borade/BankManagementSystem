@@ -41,10 +41,10 @@ This application is developed as a **learning-oriented project** to strengthen J
 
 ---
 ## 📂 Project Structure
-BankManagementSystem/
-└── bankmanagement/
-├── Main.java // Application entry point
-└── BankAccount.java // Business logic and account model
+-BankManagementSystem/
+-└── bankmanagement/
+-├── Main.java // Application entry point
+-└── BankAccount.java // Business logic and account model
 
 
 ---

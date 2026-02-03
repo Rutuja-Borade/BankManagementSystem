@@ -40,14 +40,6 @@ This application is developed as a **learning-oriented project** to strengthen J
   - Loops & Switch statements
 
 ---
-## 📂 Project Structure
--BankManagementSystem/
--└── bankmanagement/
--├── Main.java // Application entry point
--└── BankAccount.java // Business logic and account model
-
-
----
 
 ## ▶️ How to Run the Application
 
